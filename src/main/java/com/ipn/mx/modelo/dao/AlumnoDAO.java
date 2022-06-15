@@ -30,7 +30,7 @@ public class AlumnoDAO {
         //obtener conexion
         String usuario = "viauskihuljpye";
         String clave = "2f5056c6fa813f1c7506d8e685022cf86200a61a1b18ff48c1b49bc204e1fce5";
-        String url = "jdbc:postgresql://ec2-52-44-13-158.compute-1.amazonaws.com:3306/d450q0ssplp1jd?sslmode=require";
+        String url = "jdbc:postgresql://ec2-52-44-13-158.compute-1.amazonaws.com:5432/d450q0ssplp1jd?sslmode=require";
         String driverBD = "org.postgresql.Driver";
 
         try {
